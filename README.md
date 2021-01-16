@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/xpamou1/reactapp.svg?branch=master)
+
 # Getting Started with Create React Appp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
